@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Tik_Tik_Tik.html",
+    "currentPage": "Spyder.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 30,
+    "uniqCompNum": 33,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "",
@@ -1159,7 +1159,7 @@
           },
           "title": "Tik Tik Tik Official Teaser",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Jai | Anjali | Janani Iyer | Yuvan Shankar Raja | Sinish</p>",
+          "text": "Jayam Ravi |Nivetha Pethuraj | D.Imman | Shakti Soundar Rajan",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=UP2PZOVg4Xw\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1167,15 +1167,131 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-r"
+        }
+      ]
+    },
+    "Spyder.html": {
+      "settings": {
+        "title": "Spyder",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/movies-club-128x128.jpg",
+              "height": 128,
+              "alt": "WebSoft",
+              "link": "https://www.wspl.online/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"www.wspl.online\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Movies Club</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "ext_menu-u"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/62170007400-mahesh-babus-spyder-first-look-poster-out-848x1199.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Directed by: A R Murugadoss&nbsp;</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Produced by: N. V. Prasad\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tagore Madhu\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Written by: AR Murugadoss\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Starring: Mahesh Babu\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S. J. Surya\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bharath\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rakul Preet Singh\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Priyadarshi Pullikonda\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RJ Balaji\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Music by: Harris Jayaraj\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Cinematography: Santosh Sivan\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Edited by: A. Sreekar Prasad\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Production&nbsp;</span><span style=\"font-size: 1.25rem; text-align: center;\">company:</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">NVR CinemaLLP\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Distributed by: Reliance Entertainment\n</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lyca Productions</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Release date :</span><span style=\"font-size: 1.25rem; text-align: center;\">27 September 2017</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Language: Telugu |&nbsp;</span><span style=\"font-size: 1.25rem; text-align: center;\">Tamil</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Budget\t₹120 crore</span></div><div style=\"text-align: left;\"><span style=\"font-size: 1.25rem; text-align: center;\">Box office\t₹72 crore (2 day)</span></div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead DIV": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-v"
         },
         {
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "51",
+            "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1198,7 +1314,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=7zRsmOZzz2E",
+              "src": "https://www.youtube.com/watch?v=GIzMJ3atybQ",
               "aspectratio": "4:3",
               "autoplay": false,
               "loop": false
@@ -1209,21 +1325,16 @@
               "size": 0
             }
           },
-          "title": "Balloon Shut Up Pannunga Lyric Video",
+          "title": "Tik Tik Tik Official Teaser",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=7zRsmOZzz2E\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "text": "Jayam Ravi |Nivetha Pethuraj | D.Imman | Shakti Soundar Rajan",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=GIzMJ3atybQ\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "32px"
-            }
-          },
-          "_anchor": "msg-box5-s"
+          "_anchor": "msg-box5-w"
         }
       ]
     }
