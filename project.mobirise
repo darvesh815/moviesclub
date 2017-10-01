@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Home.html",
+    "currentPage": "Download.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 67,
+    "uniqCompNum": 69,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "",
@@ -493,7 +493,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -875,7 +875,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1095,7 +1095,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1320,7 +1320,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1488,7 +1488,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1817,7 +1817,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2261,7 +2261,7 @@
     "Imaikkaa_Nodigal.html": {
       "settings": {
         "title": "Imaikkaa Nodigal",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2429,7 +2429,7 @@
     "Aramm.html": {
       "settings": {
         "title": "Aramm",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2597,7 +2597,7 @@
     "Sathuranka_Vettai_2.html": {
       "settings": {
         "title": "Sathuranka Vettai 2",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2765,7 +2765,7 @@
     "Theeran_Adhigaaram_Ondru.html": {
       "settings": {
         "title": "Theeran Adhigaaram Ondru",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2933,7 +2933,7 @@
     "Iravukku_Aayiram_Kangal.html": {
       "settings": {
         "title": "Iravukku Aayiram Kangal",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -3101,7 +3101,7 @@
     "Sathya.html": {
       "settings": {
         "title": "Sathya",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3263,6 +3263,157 @@
             }
           },
           "_anchor": "msg-box5-1s"
+        }
+      ]
+    },
+    "Download.html": {
+      "settings": {
+        "title": "Download",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/movies-club-128x128.jpg",
+              "height": 128,
+              "alt": "WebSoft",
+              "link": "https://www.wspl.online/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"www.wspl.online\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Movies Club</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "ext_menu-1v"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/get-it-on-google-play-600x209.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://play.google.com/store/apps/details?id=com.app.moviesclub",
+              "alt": "Get it in PlayStore",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-on-the-app-store-600x178.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.mediafire.com/file/wanob6ksvo2svgc/MoviesClub.ipa",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Bootstrap 3",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1w"
         }
       ]
     }
