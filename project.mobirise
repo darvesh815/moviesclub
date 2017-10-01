@@ -332,13 +332,14 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/qllqcfhachecb-big-576x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/112293-thumb-665-600x791.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "Sathuranka_Vettai_2.html",
+              "link": "Imaikkaa_Nodigal.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -402,13 +403,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/112293-thumb-665-600x791.jpg",
+              "src": "@PROJECT_PATH@/assets/images/qllqcfhachecb-big-576x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "Imaikkaa_Nodigal.html",
+              "link": "Sathuranka_Vettai_2.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
