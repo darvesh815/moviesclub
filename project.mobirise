@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Hara_Hara_Mahadevaki.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -132,8 +132,7 @@
               "active": true,
               "link": "Balloon.html",
               "alt": "Balloon",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -202,9 +201,8 @@
               "width": 600,
               "active": true,
               "link": "Spyder.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Spyder",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -219,9 +217,8 @@
               "width": 600,
               "active": true,
               "link": "Tik_Tik_Tik.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Tik_Tik_Tik",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -231,10 +228,14 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/105877-thumb-665-600x937.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "Hara_Hara_Mahadevaki.html",
+              "alt": "Hara_Hara_Mahadevaki",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
