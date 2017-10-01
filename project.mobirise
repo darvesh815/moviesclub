@@ -2647,7 +2647,7 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "Directed by: H. Vinoth\n<div>Produced by: S. R. Prakashbabu\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;S. R. Prabhu\n</div><div>Written by: H. Vinoth\n</div><div>Starring: Karthi\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rakul Preet Singh\n</div><div>Music by: Ghibran\n</div><div>Cinematography: Sathyan Sooryan\n</div><div>Edited by: Shivanandeeswaran\n</div><div>Production\n&nbsp;<span style=\"font-size: 1.25rem;\">company :</span></div><div>Dream Warrior Pictures\n</div><div>Distributed by: Reliance Entertainment\n</div><div>Release date\n :&nbsp;<span style=\"font-size: 1.25rem;\">17 November 2017&nbsp;</span></div><div>Country :India\n</div><div>Language: Tamil\n</div><div>Budget: 50 crores</div>",
+          "text": "Directed by: H. Vinoth\n<div>Produced by: S. R. Prakashbabu\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;S. R. Prabhu\n</div><div>Written by: H. Vinoth\n</div><div>Starring: Karthi\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rakul Preet Singh\n</div><div>Music by: Ghibran\n</div><div>Cinematography: Sathyan Sooryan\n</div><div>Edited by: Shivanandeeswaran\n</div><div>Production\n&nbsp;<span style=\"font-size: 1.25rem;\">company :</span></div><div>Dream Warrior Pictures\n</div><div>Distributed by: Reliance Entertainment\n</div><div>Release date\n :&nbsp;<span style=\"font-size: 1.25rem;\">17 November 2017&nbsp;</span></div><div>Country :India\n</div><div>Language: Tamil\n</div><div>Budget: 50 crores</div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2666,7 +2666,7 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
@@ -2705,7 +2705,7 @@
           },
           "title": "Theeran Adhigaram Ondru Official Teaser",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "&nbsp;Atharvaa\r |&nbsp;<span style=\"font-size: 1.25rem;\">Nayanthara |&nbsp;</span><span style=\"font-size: 1.25rem;\">Anurag Kashyap |</span><span style=\"font-size: 1.25rem;\">&nbsp;Raashi Khanna</span>",
+          "text": "Karthi |&nbsp;<span style=\"font-size: 1.25rem;\">Rakul Preet Singh</span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=t3a4gmUfi1c\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
