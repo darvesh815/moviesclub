@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Download.html",
+    "currentPage": "Rate.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 69,
+    "uniqCompNum": 72,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "",
@@ -43,7 +43,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -493,7 +493,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -513,7 +513,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -875,7 +875,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -895,7 +895,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1095,7 +1095,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1115,7 +1115,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1320,7 +1320,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1340,7 +1340,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1488,7 +1488,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1508,7 +1508,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1817,7 +1817,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1837,7 +1837,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2261,7 +2261,7 @@
     "Imaikkaa_Nodigal.html": {
       "settings": {
         "title": "Imaikkaa Nodigal",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2281,7 +2281,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2429,7 +2429,7 @@
     "Aramm.html": {
       "settings": {
         "title": "Aramm",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2449,7 +2449,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2597,7 +2597,7 @@
     "Sathuranka_Vettai_2.html": {
       "settings": {
         "title": "Sathuranka Vettai 2",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2617,7 +2617,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2765,7 +2765,7 @@
     "Theeran_Adhigaaram_Ondru.html": {
       "settings": {
         "title": "Theeran Adhigaaram Ondru",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2785,7 +2785,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2933,7 +2933,7 @@
     "Iravukku_Aayiram_Kangal.html": {
       "settings": {
         "title": "Iravukku Aayiram Kangal",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2953,7 +2953,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3101,7 +3101,7 @@
     "Sathya.html": {
       "settings": {
         "title": "Sathya",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3121,7 +3121,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3269,7 +3269,7 @@
     "Download.html": {
       "settings": {
         "title": "Download",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3289,7 +3289,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3414,6 +3414,129 @@
           ],
           "_name": "features1",
           "_anchor": "features1-1w"
+        }
+      ]
+    },
+    "Rate.html": {
+      "settings": {
+        "title": "Rate",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Rating For Movies</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/movies-club-128x128.jpg",
+              "height": 128,
+              "alt": "WebSoft",
+              "link": "https://www.wspl.online/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"www.wspl.online\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Movies Club</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "ext_menu-1x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "You Can Give Rating To Movies By SMS",
+          "meta": "YOU NEED TO SMS AS ____\"MOVIE NAME\"&lt;SPACE&gt;\"YOUR NAME\"&lt;SPACE&gt;\"STAR OUT OF 5\"&lt;SPACE&gt;\"COMMENT\"_____TO \" 7339202005 \"",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "_styles": {
+            "SMALL": {
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "46px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Rate Online",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\"></span>Submit</a>",
+          "form": {
+            "action": "darvesh815@gmail.com",
+            "alerts": {
+              "success": "Thanks for your Rating!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Your Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Movie Name"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Stars Out Of 5"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Comment About Movie"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1z"
         }
       ]
     }
