@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "",
@@ -196,7 +196,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/62170007400-mahesh-babus-spyder-first-look-poster-out-848x1199.jpg",
+              "src": "@PROJECT_PATH@/assets/images/62170007400-mahesh-babus-spyder-first-look-poster-out-600x848.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
