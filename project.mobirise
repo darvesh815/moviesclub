@@ -13,7 +13,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "Download Our Application For More Comfort <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": "Download Our Application For More Comfort <a href='https://play.google.com/store/apps/details?id=com.app.moviesclub'>cookie policy</a>."
   },
   "pages": {
     "Home.html": {
