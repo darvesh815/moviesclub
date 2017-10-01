@@ -1493,7 +1493,7 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
@@ -1530,16 +1530,21 @@
               "size": 0
             }
           },
-          "title": "Video Embed",
+          "title": "Ciciliya Ciciliya Tamil Spyder&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=rXbyade1vdg\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-z"
+          "_anchor": "msg-box5-z",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          }
         }
       ]
     }
