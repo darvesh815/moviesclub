@@ -3716,7 +3716,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/c30g-czvyayrgjw-767x1200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/118897-thumb-665-665x1039.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3734,7 +3734,7 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "Directed by: Pradeep Krishnamoorthy\n<div>Produced by: Maheshwari Sathyaraj\n</div><div>Story by: Adivi Sesh\n</div><div>Starring :Sibiraj\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Varalaxmi Sarathkumar\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Remya Nambeesan\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Aathma\n</div><div>Music by: Simon K.King\n</div><div>Cinematography: Arunmani Palani\n</div><div>Edited by: Goutham Ravichandran\n</div><div>Production\n&nbsp;<span style=\"font-size: 1.25rem;\">company :</span></div><div>Naathambal Film Factory\n</div><div>Release date\n :<span style=\"font-size: 1.25rem;\">September 2017&nbsp;</span></div><div>Country: India\n</div><div>Language: Tamil</div>",
+          "text": "Directed by: Kalees\r<div>Produced by: S. Michael Rayappan\r</div><div>Written by: Kalees\r</div><div>Starring: Jiiva\r</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nikki Galrani\r</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Anaika Soti\r</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;RJ Balaji\r</div><div>Music by: Vishal Chandrasekhar\r</div><div>Cinematography: Abinandhan Ramanujam\r</div><div>Edited by: Nagooran\r</div><div>Production\r&nbsp;<span style=\"font-size: 1.25rem;\">company:&nbsp;</span></div><div>Global Infotainment\r</div><div>Country: India\r</div><div>Language: Tamil</div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
