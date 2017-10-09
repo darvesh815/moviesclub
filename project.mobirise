@@ -4154,7 +4154,7 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
@@ -4193,7 +4193,7 @@
           },
           "title": "Thiruttuppayale 2 &nbsp;Teaser&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Jiiva\r|Nikki Galrani |Anaika Soti|  RJ Balaji",
+          "text": "Susi Ganeshan | Bobby Simha| Prasanna| Amala Paul | Vidya Sagar",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=IP0Ox6uroIA\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
