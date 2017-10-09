@@ -13,7 +13,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=59db17aebe590e00122886a7&product=sticky-share-buttons' async='async'></script>\r\n",
-    "cookiesAlert": "<div class=\"sharethis-inline-reaction-buttons\"></div>"
+    "cookiesAlert": ""
   },
   "pages": {
     "Home.html": {
