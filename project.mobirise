@@ -2433,7 +2433,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/112293-thumb-665-665x877.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dldkm-mvyae5j5f-1200x1200.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2527,7 +2527,7 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
@@ -2564,9 +2564,9 @@
               "size": 0
             }
           },
-          "title": "Video Embed",
+          "title": "Kadhalikathey Video Song",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=N5Gfy0Jiu1E\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
