@@ -143,7 +143,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -246,7 +246,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -349,7 +349,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -454,7 +454,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -524,7 +524,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/1491820141-oru-nalla-naal-paathu-solrenp-310x440.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -553,7 +553,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -3536,7 +3536,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
