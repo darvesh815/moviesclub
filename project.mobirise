@@ -4180,7 +4180,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=tlov8pDcI40",
+              "src": "https://www.youtube.com/watch?v=IP0Ox6uroIA",
               "aspectratio": "4:3",
               "autoplay": false,
               "loop": false
@@ -4194,7 +4194,7 @@
           "title": "Oru Nalla Naal Paathu Solren Motion Picture",
           "meta": "By John Smith posted July 30, 2015",
           "text": "Jiiva\r|Nikki Galrani |Anaika Soti|  RJ Balaji",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=tlov8pDcI40\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=IP0Ox6uroIA\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
