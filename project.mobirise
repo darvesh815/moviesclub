@@ -12,8 +12,8 @@
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=59db17aebe590e00122886a7&product=sticky-share-buttons' async='async'></script>\r\n<div class=\"sharethis-inline-reaction-buttons\"></div>",
-    "cookiesAlert": "Download Our Application For More Comfort <a href='https://play.google.com/store/apps/details?id=com.app.moviesclub'>Download</a>."
+    "google-analytics": "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=59db17aebe590e00122886a7&product=sticky-share-buttons' async='async'></script>\r\n",
+    "cookiesAlert": "<div class=\"sharethis-inline-reaction-buttons\"></div>"
   },
   "pages": {
     "Home.html": {
