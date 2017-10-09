@@ -3982,7 +3982,7 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
