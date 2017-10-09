@@ -541,10 +541,13 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/118893-thumb-665-600x937.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -3524,7 +3527,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
