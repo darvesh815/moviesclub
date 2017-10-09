@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Kee.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -76,7 +76,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -126,13 +126,14 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/anjali-jai-in-balloon-movie-first-look-posters-600x937.jpg",
+              "src": "@PROJECT_PATH@/assets/images/118897-thumb-665-600x937.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "Balloon.html",
+              "link": "Kee.html",
               "alt": "Balloon",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
