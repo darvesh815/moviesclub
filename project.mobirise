@@ -12,7 +12,7 @@
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=59db17aebe590e00122886a7&product=sticky-share-buttons' async='async'></script>\r\n",
+    "google-analytics": "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=59db7b34609d090011a31a7c&product=sticky-share-buttons' async='async'></script>",
     "cookiesAlert": ""
   },
   "pages": {
@@ -197,14 +197,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sema-2017-tamil-full-movie-watch-online-free-600x938.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sema-movie-17-600x818.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Semma.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
