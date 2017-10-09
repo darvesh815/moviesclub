@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Oru_Nalla_Naal_Paathu_Solren.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -528,9 +528,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "Imaikkaa_Nodigal.html",
+              "link": "Oru_Nalla_Naal_Paathu_Solren.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
