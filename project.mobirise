@@ -333,14 +333,13 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/112293-thumb-665-600x791.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dldkm-mvyae5j5f-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Imaikkaa_Nodigal.html",
               "alt": "Imaikkaa Nodigal",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
