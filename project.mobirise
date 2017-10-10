@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Home.html",
+    "currentPage": "Sema.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -4563,9 +4563,9 @@
         }
       ]
     },
-    "Semma.html": {
+    "Sema.html": {
       "settings": {
-        "title": "Semma",
+        "title": "Sema",
         "order": 19
       },
       "components": [
@@ -4639,7 +4639,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sema-2017-tamil-full-movie-watch-online-free-614x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sema-movie-17-704x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
