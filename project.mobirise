@@ -4733,7 +4733,7 @@
             "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
