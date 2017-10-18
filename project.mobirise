@@ -12,7 +12,7 @@
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Hotjar Tracking Code for www.wspl.online -->\r\n<script>\r\n    (function(h,o,t,j,a,r){\r\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\r\n        h._hjSettings={hjid:659514,hjsv:6};\r\n        a=o.getElementsByTagName('head')[0];\r\n        r=o.createElement('script');r.async=1;\r\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\r\n        a.appendChild(r);\r\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\r\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-108261653-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-108261653-1');\r\n</script>\r\n",
     "cookiesAlert": "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=59db7b34609d090011a31a7c&product=sticky-share-buttons' async='async'></script>"
   },
   "pages": {
