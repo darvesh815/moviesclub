@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Home.html",
+    "currentPage": "Aramm.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 105,
+    "uniqCompNum": 106,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -2779,7 +2779,7 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "Directed by: Gopi Nainar\r<div>Produced by: Kotapadi J Rajesh\r</div><div>Written by; Gopi Nainar\r</div><div>Starring; Nayanthara\r</div><div>Music by; Ghibran\r</div><div>Cinematography: Om Prakash\r</div><div>Edited by: Gopi Krishna\r</div><div>Production\r&nbsp;<span style=\"font-size: 1.25rem;\">company :</span></div><div>KJR Studios\r</div><div>Release date\r :&nbsp;<span style=\"font-size: 1.25rem;\">18th October 2017&nbsp;</span></div><div>Country: India\r</div><div>Language: Tamil</div>",
+          "text": "Directed by: Gopi Nainar\n<div>Produced by: Kotapadi J Rajesh\n</div><div>Written by; Gopi Nainar\n</div><div>Starring; Nayanthara\n</div><div>Music by; Ghibran\n</div><div>Cinematography: Om Prakash\n</div><div>Edited by: Gopi Krishna\n</div><div>Production\n&nbsp;<span style=\"font-size: 1.25rem;\">company :</span></div><div>KJR Studios\n</div><div>Release date\n :&nbsp;<span style=\"font-size: 1.25rem;\">18th October 2017&nbsp;</span></div><div>Country: India\n</div><div>Language: Tamil</div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2850,6 +2850,58 @@
             }
           },
           "_anchor": "msg-box5-1g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=hWsn_1cs6Dc",
+              "aspectratio": "4:3",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Video Embed",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2x"
         }
       ]
     },
