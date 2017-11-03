@@ -1297,7 +1297,7 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
@@ -1334,10 +1334,10 @@
               "size": 0
             }
           },
-          "title": "Video Embed",
+          "title": "Velaikaran Second Single",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/embed/T7-0jplmr4U\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
