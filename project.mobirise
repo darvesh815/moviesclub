@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Hara_Hara_Mahadevaki.html",
+    "currentPage": "Spyder.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 111,
+    "uniqCompNum": 112,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -1885,6 +1885,38 @@
             }
           },
           "_anchor": "msg-box4-v"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Spyder Full Movie Download",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://cfcdn1.tamilwap.site/downloads/load/2017%20Movies/Spyder%20(2017)%20DVDRip/Single%20Part/Spyder%20(2017)%20DVDRip%20Single%20Part.mp4\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-33"
         },
         {
           "_params": {
