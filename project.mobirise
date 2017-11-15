@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Spyder.html",
+    "currentPage": "Ippadai_Vellum.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 112,
+    "uniqCompNum": 116,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -3424,7 +3424,7 @@
     "Iravukku_Aayiram_Kangal.html": {
       "settings": {
         "title": "Iravukku Aayiram Kangal",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3592,7 +3592,7 @@
     "Sathya.html": {
       "settings": {
         "title": "Sathya",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3992,7 +3992,7 @@
     "Kee.html": {
       "settings": {
         "title": "Kee",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -4212,7 +4212,7 @@
     "Oru_Nalla_Naal_Paathu_Solren.html": {
       "settings": {
         "title": "Oru Nalla Naal Paathu Solren",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -4380,7 +4380,7 @@
     "Thiruttu_payale_2.html": {
       "settings": {
         "title": "Thiruttu Payale 2",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -4652,7 +4652,7 @@
     "Vada_Chennai.html": {
       "settings": {
         "title": "Vada Chennai",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -4798,7 +4798,7 @@
     "Sema.html": {
       "settings": {
         "title": "Sema",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -5007,6 +5007,149 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-2s"
+        }
+      ]
+    },
+    "Ippadai_Vellum.html": {
+      "settings": {
+        "title": "Ippadai Vellum",
+        "order": 13
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"Download.html\">Download</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\" style=\"background-color: rgb(255, 255, 255); font-size: 1rem; display: inline !important;\"></a><div class=\"sharethis-inline-reaction-buttons\"></div><br></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Rate.html\">Rating For Movies</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/movies-club-128x128.jpg",
+              "height": 128,
+              "alt": "WebSoft",
+              "link": "https://www.wspl.online/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"www.wspl.online\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Movies Club</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "ext_menu-34"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "22",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1507828518-ippadai-vellum-2017-full-mp3-songs-download-500x500.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p><br></p><p></p><div><br></div><div>Directed by: Gaurav Narayanan\n</div><div>Produced by: A. Subaskaran</div><div>Written by: Gaurav Narayanan\n</div><div>Starring: Udhayanidhi Stalin\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Manjima Mohan\n</div><div>Music by: D. Imman\n</div><div>Cinematography:</div><div> Richard M. Nathan\n</div><div>Edited by: Praveen K L\n</div><div>Production\n&nbsp;<span style=\"font-size: 1.25rem;\">company :</span></div><div>Lyca Productions\n</div><div>Distributed by:</div><div> Red Giant Movies\n</div><div>Release date\n:</div><div>9 November 2017\n</div><div>Country: India\n</div><div>Language :Tamil</div><p></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-36",
+          "_styles": {
+            ".lead DIV": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Ippadai Vellum Full Movie Download",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-37"
         }
       ]
     }
