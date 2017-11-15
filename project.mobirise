@@ -109,10 +109,13 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/n08c9l696341bb3p.d.0.nenjil-thunivirundhal-tamil-movie-poster-2-600x818.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
