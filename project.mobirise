@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Aramm.html",
+    "currentPage": "Mersal.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 108,
+    "uniqCompNum": 109,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -806,6 +806,38 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mersal Full Movie Download",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://cfcdn1.teamrockers.biz/downloads/load/2017%20Movies/Mersal%20(2017)%20PreDVD/Single%20Part/Mersal%20(2017)%20PreDVD%20Single%20Part.mp4\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-30"
         },
         {
           "_params": {
