@@ -1026,7 +1026,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=3XmrZaVVUpc",
+              "src": "https://www.youtube.com/watch?v=xsbLtHql4g8",
               "aspectratio": "4:3",
               "autoplay": false,
               "loop": false
@@ -1040,7 +1040,7 @@
           "title": "Mersal Aalaporaan Thamizhan Tamil Video",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=3XmrZaVVUpc\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=xsbLtHql4g8\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1084,7 +1084,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=YW57xBVEIP8",
+              "src": "https://www.youtube.com/watch?v=Wxqu1eVJ4Vs",
               "aspectratio": "4:3",
               "autoplay": false,
               "loop": false
@@ -1095,10 +1095,10 @@
               "size": 0
             }
           },
-          "title": "Mersal Mersal Arasan Tamil Lyric Video",
+          "title": "Mersal Mersal Arasan Tamil Video",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=YW57xBVEIP8\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=Wxqu1eVJ4Vs\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
