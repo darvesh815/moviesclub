@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "Mersal.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,7 +13,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-108261653-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-108261653-1');\r\n</script>",
-    "cookiesAlert": "<head>\r\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n  (adsbygoogle = window.adsbygoogle || []).push({\r\n    google_ad_client: \"ca-pub-4465215934458845\",\r\n    enable_page_level_ads: true\r\n  });\r\n</script>\r\n</head>"
+    "cookiesAlert": "<head>\r\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n  (adsbygoogle = window.adsbygoogle || []).push({\r\n    google_ad_client: \"ca-pub-8595030483618359\",\r\n    enable_page_level_ads: true\r\n  });\r\n</script>\r\n</head>"
   },
   "pages": {
     "Home.html": {
@@ -1188,7 +1188,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=jCafZht8yMA",
+              "src": "https://www.youtube.com/watch?v=fWajtP80g54",
               "aspectratio": "4:3",
               "autoplay": false,
               "loop": false
@@ -1199,10 +1199,10 @@
               "size": 0
             }
           },
-          "title": "Mersal Neethanae Tamil Lyric Video",
+          "title": "Mersal Neethanae Tamil Video",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=jCafZht8yMA\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.ssyoutube.com/watch?v=fWajtP80g54\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
