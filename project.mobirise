@@ -13,7 +13,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-108261653-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-108261653-1');\r\n</script>",
-    "cookiesAlert": "<head>\r\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n  (adsbygoogle = window.adsbygoogle || []).push({\r\n    google_ad_client: \"ca-pub-8595030483618359\",\r\n    enable_page_level_ads: true\r\n  });\r\n</script>\r\n</head>"
+    "cookiesAlert": "<script type=\"text/javascript\" src=\"https://host1.easypolls.net/ext/scripts/emPoll.js?p=5a2d1434e4b055c80d624a13\"></script><a class=\"OPP-powered-by\" href=\"http://www.objectplanet.com/opinio/\" style=\"text-decoration:none;\"><div style=\"font: 9px arial; color: gray;\">survey tools</div></a>"
   },
   "pages": {
     "Home.html": {
